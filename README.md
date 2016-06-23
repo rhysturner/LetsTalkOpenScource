@@ -33,6 +33,7 @@ Linux is the worlds first and biggest OpenSource project. The founder Linus Torv
 - [Vagrant](https://www.vagrantup.com/)
 - [VLC](http://www.videolan.org/vlc/)
 - [Apple OpenSource](http://www.apple.com/opensource/) (Apache, Bash, openssl, CommonCrypto, Ruby, Rails, Rake, SQL, PHP, Perl, Zip, Unzip, etc… )
+- [Mircosoft](https://github.com/Microsoft/dotnet)
 - Media ecoding, [vorbis](http://xiph.org/vorbis/), [ffmpeg](http://ffmpeg.org/) etc…
 - [R](https://www.r-project.org/)
 - [Bash](https://www.gnu.org/software/bash/) & [ZSh](http://www.zsh.org/)
